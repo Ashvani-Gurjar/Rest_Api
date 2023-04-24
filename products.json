@@ -1,0 +1,33 @@
+[
+    {
+       "name":"Ashvani",
+       "price":154,
+       "featrued":true,
+       "company":"apple"
+    },
+    {
+       "name":"Ankush",
+       "price":254,
+       "featrued":true,
+       "company":"mi"
+    },
+    {
+       "name":"Arjun Singh ",
+       "price":354,
+       "featrued":true,
+       "company":"apple"
+    },
+    {
+       "name":"Aman gurjar",
+       "price":454,
+       "featrued":true,
+       "company":"hp"
+    },
+    {
+       "name":"Anshu Singh",
+       "price":554,
+       "featrued":false,
+       "company":"apple"
+    }
+   
+]
